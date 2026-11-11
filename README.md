@@ -28,7 +28,7 @@ I enjoy developing scalable applications, designing RESTful APIs, building respo
 
 ### 🚀 Featured Projects
 
-**1. Domain-Specific RAG Chatbot**
+**1. Domain-Specific RAG Chatbot** https://github.com/shashankKalyanshetty/ai-resume-analyzer?utm_source=chatgpt.com 
 - Built a document-based question-answering application using Python, LangChain, FAISS and Gemini.
 - Implemented PDF extraction, document chunking, embeddings and similarity-based retrieval.
 - Added source references and grounded response generation.
