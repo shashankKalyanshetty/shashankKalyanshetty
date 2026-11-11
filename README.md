@@ -69,7 +69,7 @@ I enjoy developing scalable applications, designing RESTful APIs, building respo
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/shashank-kalyanshetty-003b29267/ 
 - Email: shashankkalyanshetty@gmail.com
 
 ---
